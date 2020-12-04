@@ -1,2 +1,2 @@
 # sampe-gists
-Ignore this repository
+Ignore this repository. Scripts are created for fun 
